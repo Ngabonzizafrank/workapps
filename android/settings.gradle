@@ -1,0 +1,3 @@
+rootProject.name = 'workapps'
+
+include ':app'
